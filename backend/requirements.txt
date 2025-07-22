@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+httpx
+sqlite-vec
+python-multipart
+watchfiles  # Für automatisches Reload bei Entwicklung

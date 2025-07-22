@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Database files
+backend/data/database/
+backend/data/*.db
+
+# Ollama models (if stored locally)
+ollama_models/
+
+# Node.js dependencies (Frontend)
+frontend/node_modules/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Docker artifacts
+*.pid
